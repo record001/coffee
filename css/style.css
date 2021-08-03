@@ -88,7 +88,7 @@ a {
 /* ==========top_section start=============== */
 .main {
   padding: 117px 0 116px 85px;
-  background: url(/img/great_coffee.jpg) no-repeat center center /cover;
+  background: url(../img/great_coffee.jpg) no-repeat center center /cover;
 }
 
 .main__content h1 {

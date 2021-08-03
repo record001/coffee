@@ -78,7 +78,7 @@ a {
 /* ==========top_section start =============== */
 
 .main {
-  background: url(/img/about/about_main.jpg) no-repeat center center /cover;
+  background: url(../img/about/about_main.jpg) no-repeat center center /cover;
 
   padding: 137px 0 137px 85px;
 }
@@ -116,7 +116,7 @@ a {
 }
 
 .commitment__img {
-  background: url(/img/about/commintment.jpg) no-repeat center center /cover;
+  background: url(../img/about/commintment.jpg) no-repeat center center /cover;
 
   width: 445px;
   height: 520px;
